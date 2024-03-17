@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Page() {
-  return <div />;
+  return <main>회원가입모달</main>;
 }
